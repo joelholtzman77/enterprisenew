@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 editing from local mac
+=======
+test from local mac. New edit
+>>>>>>> 0198eafab62acb26538483db79c75fba7bdc60d8
