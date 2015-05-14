@@ -1,1 +1,1 @@
-test2 file
+echo test - test2 file
