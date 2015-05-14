@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test text
+=======
+test only for file1.txt
+>>>>>>> launchTask
